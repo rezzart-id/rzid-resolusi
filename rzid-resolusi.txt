@@ -6,3 +6,4 @@ REZZART_ID RESOLUSI:
 - Kuasai Wordpress dan Laravel Advance di Bulan ini (September 2020) ~ batas akhir 30/09/2020.
 - Handle 1 Project Web dalam 2 Bulan kedepan.
 - Apply Kontrak kerja pada bulan 12 (desember 2020).
+- Kolaborasi project dengan lebih banyak expert
